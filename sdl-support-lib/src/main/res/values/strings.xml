@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">architecture-module-library</string>
+    <string name="carls_alert">Alert</string>
+    <string name="carls_confirm">Confirm</string>
+    <string name="carls_cancel">Cancel</string>
+    <string name="carls_select">Select</string>
+    <string name="carls_okay">Okay</string>
+</resources>

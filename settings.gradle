@@ -1,0 +1,3 @@
+include ':sdl-support-lib'
+include ':app'
+rootProject.name = "Support Lib"
